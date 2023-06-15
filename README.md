@@ -1,3 +1,3 @@
 # BI_projects
 
-Проекты выполненные в Tableau Public можно посмотреть [здесь](https://public.tableau.com/app/profile/resong)
+You can view the projects completed in Tableau [here](https://public.tableau.com/app/profile/resong)
