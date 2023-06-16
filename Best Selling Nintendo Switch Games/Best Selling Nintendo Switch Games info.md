@@ -5,8 +5,7 @@ You can view the project completed [here](https://public.tableau.com/app/profile
 Used [dataset](https://www.kaggle.com/datasets/kabhishm/best-selling-nintendo-switch-video-games) from Kaggle
 
 # **About Project**
-Visual elements tell more meaningful stories than the simple numbers or words. Therefore, exploratory data analysis stands out as one of the most crucial approaches for investigating the available data. In this project, i am going to explore the hidden patterns in the dataset and extract information from them. 
-This study strives to furnish insights into the current salary trajectories in the realm of Data Science, simultaneously laying a robust foundation for future explorations into the impact of key determinants like **experience level**, **company size** and **geographical location** on the wage structures within this swiftly advancing profession.
+The dataset used in my project comprises a compilation of video games specifically designed for the Nintendo Switch video game console. The dataset includes games that have achieved notable sales figures, surpassing the milestone of one million copies sold or shipped. It is important to note that this dataset predominantly focuses on Nintendo-published titles, as Nintendo is known for regularly disclosing their video game sales figures on a quarterly basis. In contrast, sales figures from other publishers for specific consoles are generally not publicly available.
 
 In this project, you will know
 
