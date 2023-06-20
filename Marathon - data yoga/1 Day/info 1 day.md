@@ -16,4 +16,6 @@ Tasks:
 5. Have athletes from Fiji won gold medals: when and what sports?
 6. The oldest Olympian and his/her age?
 7. Which teams won medals in ice hockey during the Summer Olympics, where and in what year?
-8. At which games were there more female athletes on the Dutch team than male athletes?
+8. At which games were there more female athletes on the Netherland team than male athletes?
+
+**[My solution](https://public.tableau.com/app/profile/resong/viz/01_16872503099680/TableauMarathon-DataYoga-Day1)**
