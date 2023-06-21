@@ -2,7 +2,7 @@
 
 Tableau marathon - 42 days of practice from [DataYoga](https://tableau.pro/bookofmarathon42)
 
-[**2 day**](https://tableau.pro/m01)
+[**2 day**](https://tableau.pro/m02)
 
 Using data about Olympic results for the last 120 years as an example, we'll understand the Tableau workspace, build bar charts, and, using different kinds of sorting, find the answers in the data.
 **About the dataset.**
