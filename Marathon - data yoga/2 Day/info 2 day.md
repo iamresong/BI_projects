@@ -17,3 +17,5 @@ Tasks:
 6. When did women begin competing in water polo?
 7. Who was the lightest athlete on the Australian team in all the games?
 And as always, the mighty tooltip or contextual mien of the magical View Data will help answer the questions
+
+[**My solution**](https://public.tableau.com/app/profile/resong/viz/Day2_16875189665860/TableauMarathon-DataYoga-Day2)
