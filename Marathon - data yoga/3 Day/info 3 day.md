@@ -16,3 +16,5 @@ Tasks:
 3. When (date) of all projects was the maximum amount of planned collection (Goal) and collected (Pledged) in the U.S.
 4. Which category has the most "successful" projects in Australia and Canada?
 5. Which country saw the largest increase in Usd Pledged for projects in 2016 compared to 2015?
+
+[**My solution**](https://public.tableau.com/app/profile/resong/viz/TableauMarathon-DataYoga-Day3/TableauMarathon-DataYoga-Day3)
